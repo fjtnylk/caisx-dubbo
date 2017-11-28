@@ -1,0 +1,12 @@
+package com.muy;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MuyWebOpenTposApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(MuyWebOpenTposApplication.class, args);
+	}
+}
